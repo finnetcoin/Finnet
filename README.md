@@ -1,2 +1,2 @@
-# Token
+# Finnet
 FinnetCoin
